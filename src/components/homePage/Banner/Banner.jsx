@@ -15,7 +15,7 @@ const Banner = () => {
 
                 <h2 className="font-bold text-xl md:text-3xl mb-2">Assemble Your Ultimate Dream 11 Cricket Team</h2>
                 <p className="mb-4">Beyond Boundaries Beyond Limits</p>
-                <button className="btn btn-warning">Claim Free Credit</button>
+                <button className="btn bg-[#E7FE29]">Claim Free Credit</button>
             </div>
 
 

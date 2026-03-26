@@ -17,7 +17,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 100000,
-    "img": "https://example.com/tamim.jpg"
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
   },
   {
     "playerName": "Mahmudullah Riyad",
@@ -27,7 +27,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 95000,
-    "img": "https://example.com/mahmudullah.jpg"
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
   },
   {
     "playerName": "Mustafizur Rahman",
@@ -37,7 +37,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
     "price": 98000,
-    "img": "https://example.com/mustafizur.jpg"
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
   },
   {
     "playerName": "Andre Russell",
@@ -47,7 +47,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "price": 125000,
-    "img": "https://example.com/russell.jpg"
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
   },
   {
     "playerName": "Faf du Plessis",
@@ -57,7 +57,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 102000,
-    "img": "https://example.com/faf.jpg"
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
   },
   {
     "playerName": "Rashid Khan",
@@ -67,7 +67,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 130000,
-    "img": "https://example.com/rashid.jpg"
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
   },
   {
     "playerName": "Litton Das",
@@ -77,6 +77,6 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "None",
     "price": 90000,
-    "img": "https://example.com/litton.jpg"
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
   }
 ]
