@@ -1,0 +1,82 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "rating": 9.6,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": 120000,
+    "img": "https://i.ibb.co.com/cX8YRPCH/sakib-al-hasan.jpg"
+  },
+  {
+    "playerName": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "type": "Batsman",
+    "rating": 9.2,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 100000,
+    "img": "https://example.com/tamim.jpg"
+  },
+  {
+    "playerName": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "type": "All-rounder",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 95000,
+    "img": "https://example.com/mahmudullah.jpg"
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "type": "Bowler",
+    "rating": 9.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": 98000,
+    "img": "https://example.com/mustafizur.jpg"
+  },
+  {
+    "playerName": "Andre Russell",
+    "country": "West Indies",
+    "type": "All-rounder",
+    "rating": 9.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 125000,
+    "img": "https://example.com/russell.jpg"
+  },
+  {
+    "playerName": "Faf du Plessis",
+    "country": "South Africa",
+    "type": "Batsman",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 102000,
+    "img": "https://example.com/faf.jpg"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "country": "Afghanistan",
+    "type": "Bowler",
+    "rating": 9.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 130000,
+    "img": "https://example.com/rashid.jpg"
+  },
+  {
+    "playerName": "Litton Das",
+    "country": "Bangladesh",
+    "type": "Wicketkeeper",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "None",
+    "price": 90000,
+    "img": "https://example.com/litton.jpg"
+  }
+]
