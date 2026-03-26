@@ -2,7 +2,7 @@ import React, { use, useState } from 'react';
 import AvailablePlaters from './AvailablePlayers/AvailablePlaters';
 import SelectedPlayers from './SelectedPlayers/SelectedPlayers';
 
-const Players = ({ playersPromise }) => {
+const Players = ({ playersPromise, setCoin, coin }) => {
 
     const players = use(playersPromise);
 
@@ -20,7 +20,7 @@ const Players = ({ playersPromise }) => {
                     className={`btn ${selectedType === "selected" ? "bg-[#E7FE29]" : ""} rounded-l-none rounded-r-xl`}>Selected (0)</button>
                 </div>
             </div>
-            {selectedType === "available" ? <AvailablePlaters players={players}></AvailablePlaters>: <SelectedPlayers></SelectedPlayers>}
+            {selectedType === "available" ? <AvailablePlaters players={players} setCoin={setCoin} coin={coin}></AvailablePlaters>: <SelectedPlayers></SelectedPlayers>}
         </div>
     );
 };

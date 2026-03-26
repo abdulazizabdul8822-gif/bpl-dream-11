@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from '../../../../ui/Card';
 
-const AvailablePlaters = ({ players }) => {
+const AvailablePlaters = ({ players, setCoin, coin }) => {
    
     return (
 
@@ -11,7 +11,7 @@ const AvailablePlaters = ({ players }) => {
                 {
                     players.map((player) => {
                         console.log(player);
-                        return  <Card player={player}></Card>
+                        return  <Card player={player} setCoin={setCoin} coin={coin}></Card>
                        
                     })
                 }
